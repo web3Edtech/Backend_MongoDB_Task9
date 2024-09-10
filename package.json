@@ -1,14 +1,14 @@
 {
-  "name": "mongodb-aggregation-task",
+  "name": "mongodb-performance-tuning",
   "version": "1.0.0",
-  "description": "Task to practice MongoDB aggregation using match, group, and sort stages.",
+  "description": "A project to practice performance tuning techniques in MongoDB.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "NFThing",
-  "license": "ISC",
   "dependencies": {
-    "mongodb": "^4.0.0"
-  }
+    "mongodb": "^4.2.0"
+  },
+  "author": "NFThing",
+  "license": "ISC"
 }
